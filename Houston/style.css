@@ -3,6 +3,27 @@ body {
   margin: 0 auto;
 }
 
-.container_text {
-  
+h1,
+h2 {
+  margin-top: 1.5em;
+  font-family: 'Roboto', sans-serif;
 }
+
+h1 {
+  font-size: 32px;
+}
+
+table,
+th,
+td {
+  border: 1px solid #000000;
+}
+
+figcaption {
+  font-family: 'Roboto', sans-serif;
+}
+
+figure {
+  float: right; margin: 20px 30px;
+}
+
