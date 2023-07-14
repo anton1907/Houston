@@ -1,0 +1,9 @@
+body {
+  background-color: brown;
+  max-width: 1920px;
+}
+
+.container_text {
+  width: 70%;
+  margin: 0 auto;
+}
